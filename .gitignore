@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+logs/
+data/*
+!data/.gitkeep
+jars/*.jar
+.env
+*Zone.Identifier
+*-sa.json
+*service-account*.json
+credentials*.json
+.ipynb_checkpoints/
+.env.*
+!.env.example
